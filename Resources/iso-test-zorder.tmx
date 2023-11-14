@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="isometric" renderorder="right-down" width="30" height="30" tilewidth="64" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="iso-test" tilewidth="64" tileheight="115" spacing="2" margin="2" tilecount="14" columns="7">
+  <image source="iso-test.png" width="512" height="256"/>
+ </tileset>
+ <layer id="1" name="grass" width="30" height="30" opacity="0.5">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3DAQ0AAAzDoM6/6Qs5JKyaqqqq7x6slrLfEA4AAA==
+  </data>
+ </layer>
+ <layer id="2" name="trees3" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3NMQ0AAAwDoB71r7ke9i0BAyQAAHxXp9PpPJwDqA24MxAOAAA=
+  </data>
+ </layer>
+</map>
